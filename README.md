@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-### Hi there 👋Hi! My name is Lais
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on In image enhancement projects...
 - 🌱 I’m currently learning about new languges of programing like Python, or R...
